@@ -1,0 +1,66 @@
+/************
+
+COMMON
+
+*************/
+
+body{
+    font-family: "monospace",sans-serif ;
+}
+
+.font-primary{
+    color: #00abae ;
+}
+
+.title-icon{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*************
+
+ABOUT 
+
+***************/
+
+#about{
+    margin: 60px auto;
+    max-width: 480px;
+    text-align: center;
+}
+
+#about img{
+    border-radius: 50%;
+    width: 120px;
+    margin-bottom: 10px;
+}
+
+#about .name{
+    font-size: 19px;
+}
+
+#about .vocation{
+    font-size: 17px;
+    color:#A8A8AB;
+    margin-bottom:
+}
+
+#about .skills{
+    font-size: 14px;
+    color: #00abae;
+    margin-bottom: 10px;
+}
+
+#about .email{
+    margin-top: 14px;
+    font-size: 14px;
+}
+
+#about .icons{
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#about .icons a{
+    color: #000000;
+}
